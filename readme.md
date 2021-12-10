@@ -1,10 +1,3 @@
-## VWM Solutions
-![preview](https://i.ibb.co/1GLXQ2H/vwm.png)
-
-Vienna Water Monitoring Solutions' website is a full-stack project using Babel, Webpack & vanilla JS for the front-end. The back-end is not finished yet but will enhance the website greatly.
-
-The user interface emphasizes the clearness of water, and uses many styling features to achieve that effect (parallax , opacity, CSS animations and more).
-
-The front-end has been optimized to allow for a component workflow with vanilla HTML, vanilla JS and SASS using the Webpack preprocessor.
-
-[...]
+## Beauty & Lifestyle
+![preview](https://i.ibb.co/Nnyq0bR/screencapture-file-G-Alex-Websites-beauty-lifestyle-index-html-2021-12-10-18-14-00.png)
+![preview](https://i.ibb.co/mbPq3R8/screencapture-file-G-Alex-Websites-beauty-lifestyle-pages-our-story-html-2021-12-10-18-14-27.png)
